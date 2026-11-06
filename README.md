@@ -115,7 +115,7 @@ Customer-Churn-Prediction/
 1. Clone the repository:
 
    ```bash
-   git https://github.com/omsdhole05-lab
+   [(https://github.com/omsdhole05-lab/Machine-Learning-Project)]
    ```
 
 2. Install dependencies:
